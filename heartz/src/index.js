@@ -9,8 +9,8 @@ import { Configuration, PublicClientApplication } from "@azure/msal-browser";
 
 // MSAL configuration
 const configuration: Configuration = {
-  auth: {
-    clientId: "dd7cdbdc-1557-4b4f-b1f3-03e0fee9e073"
+  auth: {    
+    clientId: "acedc7e2-f4d4-49cd-93d9-d7976d987739"
   }
 };
 
