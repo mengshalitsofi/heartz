@@ -10,6 +10,7 @@ import { Configuration, PublicClientApplication } from "@azure/msal-browser";
 // MSAL configuration
 const configuration: Configuration = {
   auth: {    
+    // Client ID of the Azure AD B2C app
     clientId: "acedc7e2-f4d4-49cd-93d9-d7976d987739"
   }
 };
